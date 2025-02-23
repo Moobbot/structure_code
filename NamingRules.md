@@ -22,10 +22,10 @@
 
 ### 1.1. Đặt tên Biến, Hàm, và Class:
 
-Biến: `snake_case` (vd: `` my_variable`)
-Hàm: `snake_case` (vd:  ``my_function`)
-Class: `PascalCase`(vd:`MyClass`)
-Hằng Số: `UPPER_SNAKE_CASE`(vd:`MY_CONSTANT`)
+- Biến: `snake_case` (vd: `` my_variable`)
+- Hàm: `snake_case` (vd:  ``my_function`)
+- Class: `PascalCase`(vd:`MyClass`)
+- Hằng Số: `UPPER_SNAKE_CASE`(vd:`MY_CONSTANT`)
 
 ### 1.2. Viết mô tả (Docstrings):
 
